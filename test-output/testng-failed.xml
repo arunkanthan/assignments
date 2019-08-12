@@ -6,8 +6,8 @@
       <class name="com.qa.automation.testsuites.GoIbiboTest">
         <methods>
           <include name="init"/>
-          <include name="searchFlights"/>
           <include name="closeBrowser"/>
+          <include name="searchResultsInDecreasingPriceOrder"/>
         </methods>
       </class> <!-- com.qa.automation.testsuites.GoIbiboTest -->
     </classes>
