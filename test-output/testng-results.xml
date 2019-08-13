@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="49012" started-at="2019-08-12T11:50:01Z" finished-at="2019-08-12T11:50:51Z">
+  <suite name="Default suite" duration-ms="58737" started-at="2019-08-13T11:17:29Z" finished-at="2019-08-13T11:18:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="49012" started-at="2019-08-12T11:50:01Z" finished-at="2019-08-12T11:50:51Z">
+    <test name="Default test" duration-ms="58737" started-at="2019-08-13T11:17:29Z" finished-at="2019-08-13T11:18:27Z">
       <class name="com.qa.automation.testsuites.GoIbiboTest">
-        <test-method status="PASS" signature="init()[pri:0, instance:com.qa.automation.testsuites.GoIbiboTest@21588809]" name="init" is-config="true" duration-ms="7303" started-at="2019-08-12T11:50:02Z" finished-at="2019-08-12T11:50:09Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.qa.automation.testsuites.GoIbiboTest@21588809]" name="init" is-config="true" duration-ms="9888" started-at="2019-08-13T11:17:29Z" finished-at="2019-08-13T11:17:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="searchFlights()[pri:0, instance:com.qa.automation.testsuites.GoIbiboTest@21588809]" name="searchFlights" duration-ms="16454" started-at="2019-08-12T11:50:09Z" finished-at="2019-08-12T11:50:25Z">
+        <test-method status="PASS" signature="searchFlights()[pri:0, instance:com.qa.automation.testsuites.GoIbiboTest@21588809]" name="searchFlights" duration-ms="19006" started-at="2019-08-13T11:17:40Z" finished-at="2019-08-13T11:17:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchFlights -->
-        <test-method status="PASS" signature="searchResultsInDecreasingOrderOfCost()[pri:0, instance:com.qa.automation.testsuites.GoIbiboTest@21588809]" name="searchResultsInDecreasingOrderOfCost" duration-ms="13422" started-at="2019-08-12T11:50:25Z" finished-at="2019-08-12T11:50:39Z">
+        <test-method status="PASS" signature="searchResultsInDecreasingOrderOfCost()[pri:0, instance:com.qa.automation.testsuites.GoIbiboTest@21588809]" name="searchResultsInDecreasingOrderOfCost" duration-ms="13478" started-at="2019-08-13T11:17:59Z" finished-at="2019-08-13T11:18:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchResultsInDecreasingOrderOfCost -->
-        <test-method status="PASS" signature="verifyHomePage()[pri:0, instance:com.qa.automation.testsuites.GoIbiboTest@21588809]" name="verifyHomePage" duration-ms="1547" started-at="2019-08-12T11:50:39Z" finished-at="2019-08-12T11:50:40Z">
+        <test-method status="PASS" signature="verifyHomePage()[pri:0, instance:com.qa.automation.testsuites.GoIbiboTest@21588809]" name="verifyHomePage" duration-ms="1639" started-at="2019-08-13T11:18:12Z" finished-at="2019-08-13T11:18:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePage -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.automation.testsuites.GoIbiboTest@21588809]" name="closeBrowser" is-config="true" duration-ms="10246" started-at="2019-08-12T11:50:40Z" finished-at="2019-08-12T11:50:51Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.automation.testsuites.GoIbiboTest@21588809]" name="closeBrowser" is-config="true" duration-ms="13595" started-at="2019-08-13T11:18:14Z" finished-at="2019-08-13T11:18:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
